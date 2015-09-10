@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Bluetooth!</string>
+    <string name="app_name">微型气象站</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_curve">curve</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_xy_printy">xy_printy</string>
+    <string name="title_activity_xychart_builder">XYChartBuilder</string>
+    <string name="title_activity_instructions">instructions</string>
+</resources>
